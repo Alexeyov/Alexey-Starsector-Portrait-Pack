@@ -1,6 +1,8 @@
 # Alexey-Starsector-Portrait-Pack
-A Portrait pack mod for Starsector. 
+A Portrait pack mod for Starsector, with a total of 70 new portraits!
+All portraits are available for the player and are also distribuited along the vanilla factions!.
 These portraits were created using Severian Void SD model and some finishing touches in GIMP.
 
 Enjoy them :)
-![Preview](https://user-images.githubusercontent.com/1359583/205524426-37dc6b8c-6532-4acb-8300-3fd7f278503d.png)
+
+![Banner](https://user-images.githubusercontent.com/1359583/206522926-387a3a92-04e1-436f-810f-914e837e47d5.png)
