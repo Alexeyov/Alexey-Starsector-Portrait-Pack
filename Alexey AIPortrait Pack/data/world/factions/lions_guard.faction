@@ -1,0 +1,14 @@
+{
+	 "portraits":{
+        "standard_female":[
+                        "graphics/portraits/AAIPP_f_15.png",
+                        "graphics/portraits/AAIPP_f_23.png",
+                        "graphics/portraits/AAIPP_f_24.png",
+                        "graphics/portraits/AAIPP_f_31.png",
+                        "graphics/portraits/AAIPP_f_41.png",
+                        "graphics/portraits/AAIPP_f_52.png",
+        	],
+        },  
+}
+
+

@@ -3,6 +3,14 @@
         "standard_female":[
 			"graphics/portraits/AAIPP_f_11.png",
 			"graphics/portraits/AAIPP_f_12.png",
+			"graphics/portraits/AAIPP_f_21.png",
+			"graphics/portraits/AAIPP_f_24.png",
+			"graphics/portraits/AAIPP_f_36.png",
+			"graphics/portraits/AAIPP_f_48.png",
+			"graphics/portraits/AAIPP_f_49.png",
+			"graphics/portraits/AAIPP_f_50.png",
+			"graphics/portraits/AAIPP_f_53.png",
+			"graphics/portraits/AAIPP_f_54.png",
         	],
         },  
 }
